@@ -7,7 +7,7 @@ I am a student at Dian Nuswantoro University.
 
 Currently I'm interested in becoming a front end dev.
 
-My focus is now learning about js and node js.:kissing_heart:
+My focus is now learning about js and react js.:kissing_heart:
 
 <!---
 Leviathanzs/Leviathanzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
