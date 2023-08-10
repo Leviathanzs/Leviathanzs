@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Leviathanzs
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me okywidhiansyah@gmail.com
 
 I am a student at Dian Nuswantoro University.
 
-Currently I'm interested in becoming a back end dev.
+Currently I'm interested in becoming a front end dev.
 
 My focus is now learning about js and node js.:kissing_heart:
 
